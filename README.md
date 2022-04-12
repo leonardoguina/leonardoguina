@@ -87,7 +87,7 @@
 
 ##### Some of my favorite open source projects
 
-[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
+[![MEGA](https://mega.nz/C!ABRXUQyI)](https://github.com/meganz/)
 
 ⭐️ From [leonardoguina](https://github.com/leoguina)
 
