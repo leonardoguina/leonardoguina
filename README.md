@@ -81,14 +81,14 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) -->
+<!-- ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) -->
 
 
 ##### Some of my favorite open source projects
 
 
-<a href="https://mega.nz/C!ABRXUQyI" target="blank"><img src="https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E" alt="MEGA"></a>
+<a href="https://mega.nz/C!ABRXUQyI" target="_blank"><img src="https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E" alt="MEGA"></a>
 
 
 ⭐️ From [leonardoguina](https://github.com/leoguina)
